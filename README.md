@@ -15,6 +15,12 @@ Kodu kompilacja,
 Gotowa jest,
 Wpalać binarki raspberką pi.
 
+Unit poszedł do sleepa,
+Gotowy wstać,
+Na CANie ramka wybudzi go,
+Wykonałem komendy, komendy aż trzy,
+Command linem, smoke testy poszły.
+
 Integrowałem feature brancz amendem,
 Merge tagowałem, forcem pushowałem,
 Pullem nam było, łatwiej fetchować,
